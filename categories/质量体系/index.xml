@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>质量体系 on GY 智能质效探索～ 博客</title>
+    <link>http://localhost:63385/categories/%E8%B4%A8%E9%87%8F%E4%BD%93%E7%B3%BB/</link>
+    <description>Recent content in 质量体系 on GY 智能质效探索～ 博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>© 2026 GY</copyright>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:63385/categories/%E8%B4%A8%E9%87%8F%E4%BD%93%E7%B3%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:63385/posts/my-post/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63385/posts/my-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
